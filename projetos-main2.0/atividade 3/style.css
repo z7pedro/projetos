@@ -1,0 +1,35 @@
+body{
+
+    background-color: rgb(255, 0, 162);
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: 150%;
+    color: rgb(120, 255, 2);
+
+}
+
+.importante{
+    color: rgb(248, 87, 6);
+
+}
+
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: darkred;
+    text-decoration: none;
+}
+a:active{
+    color: brown;
+    text-decoration: none;
+}
+a:hover{
+    text-transform: uppercase
+    color blue;
+    font-weight: bold;
+    background-color: chartreuse;
+}
