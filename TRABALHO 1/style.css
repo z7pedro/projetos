@@ -1,4 +1,39 @@
 div{
-background-color: rgb(221, 150, 150);
- text-align: center;
+    background-color: rgb(139, 104, 104);
+     text-align: left ;
+     /* min-height: 100vh; */
+     height: 100%;
+    }
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+ }
+.footer {
+
+    text-align: center;
+    margin-top: 25%;
 }
+body {
+
+    background-color: rgb(83, 76, 76);
+    color: rgb(0, 0, 0);
+}
+header {
+
+    text-align: center;
+}
+.bio {
+
+    text-align: center;
+
+}
+/* .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+    */
